@@ -4,14 +4,14 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'Thilakmani',
+  headline: 'Hi I am Thilak, Web Developer & Front-end Developer',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-  buttonLabel: 'Get Started',
+    'I develop websites & web apps & mobile apps for fun & profit. A Final Year Student at PSNACET',
+  buttonLabel: 'Developer',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card',
+  img: require('../../images/dev-1.svg'),
+  alt: 'Thilakmani',
   start: ''
 };
 
@@ -27,8 +27,8 @@ export const homeObjTwo = {
     "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-2.svg'),
-  alt: 'Vault',
+  img: require('../../images/dev-2.svg'),
+  alt: 'Thilakmani',
   start: ''
 };
 
@@ -38,15 +38,15 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Thilakmani',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'I was a intern at ConnectClub, Here you can see my contribution',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
-  buttonLabel: 'View Case Study',
+    "I am good at front end development, i working on my skills to become a full stack developer.",
+  buttonLabel: 'View My Works',
   imgStart: 'start',
-  img: require('../../images/profile.jpg'),
-  alt: 'Vault',
+  img: require('../../images/dev-5.jpg'),
+  alt: 'Thilakmani',
   start: 'true'
 };
 
@@ -62,7 +62,7 @@ export const homeObjFour = {
     'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
   buttonLabel: 'Sign Up Now',
   imgStart: 'start',
-  img: require('../../images/svg-3.svg'),
-  alt: 'Vault',
+  img: require('../../images/dev-5.jpg'),
+  alt: 'Thilakmani',
   start: 'true'
 };

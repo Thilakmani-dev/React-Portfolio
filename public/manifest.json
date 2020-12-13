@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Thilakmani",
+  "name": "Thilakmani",
+  "description": "Mr Thilakmani: Developer who works for fun and profit",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#4070F4",
   "background_color": "#ffffff"
 }
